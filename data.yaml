@@ -1,0 +1,9 @@
+path: D:/Conda_labs/data
+
+train: images/train
+val: images/val
+
+names:
+  0: dog
+  1: cat
+  2: otter
